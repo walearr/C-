@@ -1,0 +1,7 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\OtraDiena\bin\Debug\OtraDiena.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\OtraDiena\bin\Debug\OtraDiena.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\OtraDiena\bin\Debug\OtraDiena.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\OtraDiena\obj\Debug\OtraDiena.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\OtraDiena\obj\Debug\OtraDiena.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\OtraDiena\obj\Debug\OtraDiena.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\OtraDiena\obj\Debug\OtraDiena.pdb

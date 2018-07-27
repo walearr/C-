@@ -1,0 +1,2 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\Day7Dzerieni\obj\Debug\DzerienuAutomats.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Day7Dzerieni\obj\Debug\DzerienuAutomats.csproj.CoreCompileInputs.cache

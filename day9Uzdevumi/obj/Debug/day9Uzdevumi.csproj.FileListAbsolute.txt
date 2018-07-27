@@ -1,0 +1,7 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\day9Uzdevumi\bin\Debug\day9Uzdevumi.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\day9Uzdevumi\bin\Debug\day9Uzdevumi.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\day9Uzdevumi\bin\Debug\day9Uzdevumi.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\day9Uzdevumi\obj\Debug\day9Uzdevumi.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\day9Uzdevumi\obj\Debug\day9Uzdevumi.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\day9Uzdevumi\obj\Debug\day9Uzdevumi.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\day9Uzdevumi\obj\Debug\day9Uzdevumi.pdb

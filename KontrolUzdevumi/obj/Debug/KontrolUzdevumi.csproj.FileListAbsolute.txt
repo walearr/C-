@@ -1,0 +1,7 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\KontrolUzdevumi\bin\Debug\KontrolUzdevumi.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\KontrolUzdevumi\bin\Debug\KontrolUzdevumi.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\KontrolUzdevumi\bin\Debug\KontrolUzdevumi.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\KontrolUzdevumi\obj\Debug\KontrolUzdevumi.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\KontrolUzdevumi\obj\Debug\KontrolUzdevumi.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\KontrolUzdevumi\obj\Debug\KontrolUzdevumi.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\KontrolUzdevumi\obj\Debug\KontrolUzdevumi.pdb

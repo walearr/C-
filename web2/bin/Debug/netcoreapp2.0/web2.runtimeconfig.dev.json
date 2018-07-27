@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\VoldDace\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\VoldDace\\.nuget\\packages"
+    ]
+  }
+}

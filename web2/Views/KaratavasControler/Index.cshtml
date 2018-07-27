@@ -1,0 +1,27 @@
+﻿<h1>Karatavas</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.pazinojums))
+{
+    @ViewBag.pazinojums
+    <br/>
+
+}
+
+@ViewBag.AtminetaisVards
+
+@if (ViewBag.Irdzivibas)
+{
+
+<form asp-controller= "KaratavasControler" asp-action= "Minet">
+    <span>Atlikusas dzivibas: @ViewBag.DzivibuSkaits</span>
+    <br/>
+    <input type= "text" name="vards" maxlength="1" />
+    <input type= "submit" value= "Minet" />
+</form>
+}
+
+<form asp-controller="KaratavasControler" asp-action="JaunaSpele">
+    
+    <input type="submit" value="Jauna spele" />
+</form>
+

@@ -1,0 +1,7 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\Darbinieks\obj\Debug\Darbinieks.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Darbinieks\obj\Debug\Darbinieks.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Darbinieks\bin\Debug\Darbinieks.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\Darbinieks\bin\Debug\Darbinieks.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\Darbinieks\bin\Debug\Darbinieks.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\Darbinieks\obj\Debug\Darbinieks.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\Darbinieks\obj\Debug\Darbinieks.pdb

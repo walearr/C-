@@ -1,0 +1,7 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\Day66\bin\Debug\Day66.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\Day66\bin\Debug\Day66.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\Day66\bin\Debug\Day66.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\Day66\obj\Debug\Day66.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Day66\obj\Debug\Day66.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Day66\obj\Debug\Day66.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\Day66\obj\Debug\Day66.pdb

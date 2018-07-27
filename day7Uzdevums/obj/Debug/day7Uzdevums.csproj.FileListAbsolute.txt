@@ -1,0 +1,7 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\day7Uzdevums\obj\Debug\day7Uzdevums.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\day7Uzdevums\obj\Debug\day7Uzdevums.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\day7Uzdevums\bin\Debug\day7Uzdevums.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\day7Uzdevums\bin\Debug\day7Uzdevums.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\day7Uzdevums\bin\Debug\day7Uzdevums.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\day7Uzdevums\obj\Debug\day7Uzdevums.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\day7Uzdevums\obj\Debug\day7Uzdevums.pdb

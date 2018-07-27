@@ -1,0 +1,7 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\Diena3\bin\Debug\Diena3.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\Diena3\bin\Debug\Diena3.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\Diena3\bin\Debug\Diena3.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\Diena3\obj\Debug\Diena3.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Diena3\obj\Debug\Diena3.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Diena3\obj\Debug\Diena3.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\Diena3\obj\Debug\Diena3.pdb

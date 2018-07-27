@@ -1,0 +1,7 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\Day4\bin\Debug\Day4.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\Day4\bin\Debug\Day4.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\Day4\bin\Debug\Day4.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\Day4\obj\Debug\Day4.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Day4\obj\Debug\Day4.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Day4\obj\Debug\Day4.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\Day4\obj\Debug\Day4.pdb

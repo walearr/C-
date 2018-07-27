@@ -1,0 +1,6 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\diena11\bin\Debug\diena11.exe.config
+C:\Users\VoldDace\source\repos\Rigacoding11\diena11\bin\Debug\diena11.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\diena11\bin\Debug\diena11.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\diena11\obj\Debug\diena11.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\diena11\obj\Debug\diena11.exe
+C:\Users\VoldDace\source\repos\Rigacoding11\diena11\obj\Debug\diena11.pdb

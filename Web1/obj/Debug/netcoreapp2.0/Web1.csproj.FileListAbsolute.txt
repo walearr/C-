@@ -1,0 +1,11 @@
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\bin\Debug\netcoreapp2.0\Web1.deps.json
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\bin\Debug\netcoreapp2.0\Web1.runtimeconfig.json
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\bin\Debug\netcoreapp2.0\Web1.runtimeconfig.dev.json
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\bin\Debug\netcoreapp2.0\Web1.dll
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\bin\Debug\netcoreapp2.0\Web1.pdb
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\obj\Debug\netcoreapp2.0\Web1.csprojAssemblyReference.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\obj\Debug\netcoreapp2.0\Web1.csproj.CoreCompileInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\obj\Debug\netcoreapp2.0\Web1.AssemblyInfoInputs.cache
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\obj\Debug\netcoreapp2.0\Web1.AssemblyInfo.cs
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\obj\Debug\netcoreapp2.0\Web1.dll
+C:\Users\VoldDace\source\repos\Rigacoding11\Web1\obj\Debug\netcoreapp2.0\Web1.pdb
